@@ -242,7 +242,7 @@ This repository has been scanned and verified as **safe** by [VirusTotal](https:
 **Scan Result: ✅ 0/95 — No security vendors flagged this repository as malicious.**
 
 <p align="center">
-  <img src="virustotal-scan.png" alt="VirusTotal Scan Result — 0/95 Clean" width="100%" />
+  <img src="virustotal-screen.png" alt="VirusTotal Scan Result — 0/95 Clean" width="100%" />
 </p>
 
 <p align="center">
